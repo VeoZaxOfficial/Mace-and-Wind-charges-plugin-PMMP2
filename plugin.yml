@@ -1,0 +1,7 @@
+name: CoreMace
+main: CoreMace\Main
+version: "0.14-0.15"
+api: ["VeoZaxAPI"]
+description: "MACE plugin from VeoZax SMP"
+author: VeoZax
+load: POSTWORLD
