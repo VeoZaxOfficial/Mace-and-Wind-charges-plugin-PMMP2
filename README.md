@@ -14,7 +14,7 @@ Originally built for the **VeoZax SMP** server as a private plugin. Since that l
 ## Requirements
 
 - PocketMine-MP (legacy / old-API core, uses `pocketmine\level\*`)
-- PHP 7.0+
+- PHP 7.0
 
 ## Installation
 
